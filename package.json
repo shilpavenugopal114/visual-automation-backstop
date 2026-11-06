@@ -20,7 +20,7 @@
     "backstopjs": "6.0.4",
     "csv-parser": "^3.0.0",
     "current-git-branch": "2.0.2",
-    "dotenv": "^16.0.3",
+    "dotenv": "^18.0.9",
     "fs": "^0.0.1-security",
     "prompt-sync": "^4.2.0",
     "sitemap": "^7.1.1",
